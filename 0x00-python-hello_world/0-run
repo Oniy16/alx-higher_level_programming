@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-print("Hell world")
+python3 $PYFILE
