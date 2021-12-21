@@ -1,4 +1,4 @@
-!/usr/bin/python3
+#!/usr/bin/python3
 """ 10-square: Square """
 Rectangle = __import__('9-rectangle').Rectangle
 
