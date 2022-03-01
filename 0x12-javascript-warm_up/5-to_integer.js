@@ -5,5 +5,3 @@ if (!number) {
 } else {
   console.log('My number: ' + Number(process.argv[2]));
 }
-
-
